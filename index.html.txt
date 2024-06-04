@@ -1,0 +1,33 @@
+
+
+<html>
+<head>
+<title>winx</title>
+</head>
+<BODY BGCOLOR="GOLD">
+<body>
+<center><img src ="winx.jfif" "height"=300 "width"=1000></td></center>
+<center><h2><font color="fuchsia">Ora puoi comprare i loro vestiti in un negozio vero !</font><h2></center>
+Nel cuore pulsante di <b>Milano</b>, la città che incarna lo spirito della <b>moda </b>e dell'innovazione, sta per sorgere un nuovo e entusiasmante punto di riferimento per gli amanti dello <b>stile e del fantastico.</b> 
+<br>
+Preparatevi a varcare la soglia di un mondo dove la <b>magia </b><incontra la moda, dove i <b>sogni</b> prendono vita e dove la bellezza diventa tangibile. È con immensa gioia che annunciare l'arrivo del primo negozio dedicato interamente ai vestiti ispirati alle <b>Winx</b></font>, le affascinanti eroine del celebre cartone animato. <br>Un'oasi di colori vivaci, di <b>eleganza</b> incantata e di stile senza tempo sta per aprire le sue porte, invitandovi a esplorare un universo di moda unico nel suo genere. Benvenuti nel futuro della moda a Milano, dove ogni sogno di stile diventa <b>realtà</b>.<br>
+<h3>Ma sapete chi sono le winx???</h3></font>
+
+Le Winx sono un gruppo di ragazze con poteri magici che vivono nel Magix, un mondo magico, e frequentano la Scuola di Magia di Alfea. <br>Ognuna di loro ha un elemento magico associato e ha caratteristiche e personalità diverse. Insieme, le Winx combattono contro il male e proteggono il Magix da varie minacce, rendendo la serie un mix di avventura, azione, magia e amicizia.<br>
+<h3><font color="magenta"><b>Le protagoniste della serie sono sei:</font></b> </h3>
+<table width="600" height"200">
+<tr>
+<td><img src ="bloom.gif"><br><a href="bloom.html"><center><h3>BLOOM</h3></center></a></td>
+<td><img src="stella.gif"><br><a href="stella.html"><center><h3>STELLA</h3></center></a></td>
+<td><img src="musa.gif"><br><a href="musa.html"><center><h3>MUSA</h3></center></a></td>
+</tr>
+<tr>
+<td><img src="tecna.gif"><br><a href="tecna.html"><center><h3>TECNA</h3></center></td>
+<td><img src="aisha.gif"><br><a href="aisha.html"><center><h3>AISHA</h3></center></td>
+<td><img src="flora.gif"><br><a href="flora.html"><center><h3>FLORA</h3></center></td>
+</table>
+<br>
+<b>E tu, che winx sei ?</b>
+<b><font color ="magenta"<se lo vuoi scoprire devi assolutamente venire in negozio e provare gli outfite più adatti a te !</b></font>
+</body>
+</html>

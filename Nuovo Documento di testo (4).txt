@@ -1,0 +1,51 @@
+<html>
+<head>
+<title>Bloom</title>
+</head>
+<Body bgcolor="mistyrose">
+<body>
+<center><img src="bloom logo.png" width="300" height ="150"></center>
+<br><br><br>
+<font color="orangered"><b>Bloom</b></font> è una delle <font color="orangered"><b>Winx</b></font>,nota per per il suo spirito <font color="orangered"><b>indomabile</b></font>, la sua gentilezza e il suo <font color="orangered"><b>coraggio.  </b></font>.
+Essendo la Fata della <font color="orangered"><b>Fiamma del Drago</b></font> , il suo personaggio rappresenta il cuore e l'anima della serie "Winx Club," portando <font color="orangered"><b>luce</b></font> e <font color="orangered"><b>speranza</b></font> nei momenti più bui.
+<br><br>
+Le sue caratteristiche sono :
+<ul type=disk>
+<li><font color="orangered"><b>POTERI E ABILITà: </b></font> Bloom ha il potere del fiore, che le consente di manipolare la natura e le piante. Può far crescere fiori, controllare le piante esistenti e anche comunicare con la natura. I suoi poteri sono spesso usati per proteggere l'ambiente e gli esseri viventi.</li>
+
+
+<li><font color="orangered"><b>PERSONALITà </b></font> Bloom è gentile, compassionevole e altruista. Si preoccupa profondamente per la natura e gli animali e cerca sempre di aiutare gli altri. È anche molto amichevole e ha un cuore puro.</li>
+
+<li><font color="orangered"><b>RUOLO NELLA SERIE: </b></font> Bloom è uno dei membri più importanti delle Winx e gioca un ruolo fondamentale nelle loro avventure. È spesso vista come la voce della ragione del gruppo e cerca sempre di risolvere i problemi in modo pacifico.</li>
+
+<li><font color="orangered"><b>RELAZIONI: </b></font> Bloom è molto legata alle altre Winx e considera il gruppo come una famiglia. Ha una relazione romantica con Helia, uno specialista di Red Fountain, la scuola per specialisti.</li>
+</ul>
+<br>
+<center><font color ="orangered"><b>CHE COSA INDOSSA DI SOLITO E QUAL è IL SUO ASPETTO FISICO ?</b></font><br><br>
+ Flora è rappresentata come una giovane donna con lunghi capelli castani e occhi verdi. Indossa spesso abiti verdi o colorati che richiamano la natura e i fiori.</center>
+<br>
+<font color="orangered"><b>Ecco i suoi outfite da trasformata e da ragazza normale </b></font><br>
+<center><table></center>
+<tr>
+<td><img src="bloom tras.jpg"width="250" height="400"><center><h3><font color="orangered">Bloom trasformata in fata </font></h3></center>
+<ul type=disk>
+<li>Copri braccia = € 25</li>
+<li>Abito corto rosa brillantinta =€40</li>
+<li>borsa piccola a forma di rosa=€30</li>
+<li>stivali con tacco alto rosa =€35</li>
+<li>collana verde con fiore a quattro petali bianco =€15</li></ul></td>
+<td><img src="bloom normale.jpg"width="250" height="400"><center><h3><font color="orangered">Bloom vestita da una ragazza normale</font> </h3></center>
+<ul type=disk>
+<li>sandali con tacco rosa brillantinato con fiore = € 25</li>
+<li>mini gonna rosa con motivo a fragole=€30</li>
+<li>paio di bracciale verde=€15</li>
+<li>top corto con orlo arricciato=€30</li>
+<ul>
+</td>
+</tr>
+</table>
+<br>
+<a href="index.html">HOME</a>
+<center><h4>Tutti i diritti riservati. Lavoro di Sara Bhowmik </h4></center>
+</body>
+</html>

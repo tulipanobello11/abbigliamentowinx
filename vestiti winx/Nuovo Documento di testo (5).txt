@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>stella</title>
+</head>
+<Body bgcolor="mistyrose">
+<body>
+<center><img src="stella logo.png" width="300" height ="150"></center>
+<br><br><br>
+<font color="gold"><b>Stella</b></font> è  la Fata del <font color="gold"><b>Sole</b></font>, della <font color="gold"><b>Luna </b></font>e delle <font color="gold"><b>Stelle</b></font>, ed è nota per la sua <font color="gold"><b>personalità vivace</b></font>, il suo amore per la moda e la sua abilità magica.<br><br>
+Le sue caratteristiche sono :
+<ul type=disk>
+<li><font color="gold"><b>POTERI : </b></font>  Stella è la Fata del Sole, della Luna e delle Stelle, il che le permette di manipolare la luce solare e lunare, oltre a creare esplosioni di energia luminosa.</li>
+
+<li><font color="gold"><b>PERSONALITà </b></font> Stella è solare, estroversa e piena di vita. Ama la moda, lo shopping e spesso funge da stilista per le sue amiche. È anche molto leale e coraggiosa, pronta a combattere per i suoi amici e per ciò in cui crede.</li>
+
+<li><font color="gold"><b>RUOLO NELLA SERIE </b></font> Stella è una delle prime amiche che Bloom incontra quando arriva ad Alfea. La loro amicizia è centrale nella serie, e Stella aiuta Bloom a integrarsi nel mondo magico. Stella è anche una delle leader del gruppo Winx, contribuendo con la sua energia e la sua esperienza magica nelle battaglie contro i nemici.</li>
+</ul>
+<br>
+<center><font color ="gold"><b>CHE COSA INDOSSA DI SOLITO E QUAL è IL SUO ASPETTO FISICO ?</b></font><br><br>
+Stella ha capelli lunghi e biondi, occhi verdi e una carnagione dorata. Il suo stile è sempre alla moda e alla ricerca delle ultime tendenze.Stella ama indossare abiti colorati, spesso in tonalità calde come il giallo, l'arancione e il rosa. I suoi outfit sono sempre alla moda e coordinati con accessori eleganti.</center>
+<br>
+<font color="gold"><b>Ecco i suoi outfite da trasformata e da ragazza normale </b></font><br>
+<center><table></center>
+<tr>
+<td><img src="stella tras.jpg"width="250" height="400"><center><h3><font color="gold">Tecna trasformata in fata </font></h3></center>
+<ul type=disk>
+<li>Tuta intera di un colore lavanda scintillante  = € 25</li>
+<li> stivali blu polvere fino al ginocchio con tacchi alti=€40</li>
+<li>copri braccia blu=€30</li>
+<li>capello viola a punta con smeraldo  =€35</li>
+<li>collana verde con fiore a quattro petali bianco =€15</li></ul></td>
+<td><img src="stella normale.jpg"width="350" height="400"><center><h3><font color="gold">Tecna vestita da una ragazza normale</font> </h3></center>
+<ul type=disk>
+<li>pacchetto con scarpe sportive viola e calze= € 30</li>
+<li>pantaloni sportivi viola con nastro a ringe laterale =€30</li>
+<li>top corto verde e viola con colletto e cerniera=€36</li>
+<li>orecchini a perla grande bianca =€30</li>
+<ul>
+</td>
+</tr>
+</table>
+<br>
+<a href="index.html">HOME</a>
+<br><br><br><br>
+<h4>Tutti i diritti riservati. Lavoro realizato da Sara Bhowmik</h4> 
+</body>
+</html>
